@@ -1,6 +1,6 @@
 # 📋 BitTask!
 
-BitTask is a minimalist task manager built for learning and practicing full-stack development.
+BitTask is a minimalist task manager built for learning and practicing full stack development.
 
 ---
 
