@@ -9,7 +9,7 @@ BitTask is a minimalist task manager built for learning and practicing full stac
 - Mark tasks as completed  
 - Set due dates  
 - Filter by status  
-- Simple & clean UI  
+- Simple & clean UI   
 
 --- 
 
