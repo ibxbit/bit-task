@@ -21,7 +21,7 @@ BitTask is a minimalist task manager built for learning and practicing full stac
 
 ---
 
-## 🚧 Status
+## 🚧 Status 
 Project is in early development — building in public!
 
 Follow my journey:  
