@@ -11,7 +11,7 @@ BitTask is a minimalist task manager built for learning and practicing full stac
 - Filter by status  
 - Simple & clean UI  
 
----
+--- 
 
 ## 📦 Tech Stack
 - Frontend: React (or your choice)  
